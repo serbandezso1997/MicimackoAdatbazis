@@ -1,0 +1,10 @@
+D:\Program Files (x86)\Programozas\suli_programozas\c#\gyakorlas\MicimackoAdatbazis\MicimackoAdatbazis\bin\Debug\MicimackoAdatbazis.exe.config
+D:\Program Files (x86)\Programozas\suli_programozas\c#\gyakorlas\MicimackoAdatbazis\MicimackoAdatbazis\bin\Debug\MicimackoAdatbazis.exe
+D:\Program Files (x86)\Programozas\suli_programozas\c#\gyakorlas\MicimackoAdatbazis\MicimackoAdatbazis\bin\Debug\MicimackoAdatbazis.pdb
+D:\Program Files (x86)\Programozas\suli_programozas\c#\gyakorlas\MicimackoAdatbazis\MicimackoAdatbazis\bin\Debug\MySql.Data.dll
+D:\Program Files (x86)\Programozas\suli_programozas\c#\gyakorlas\MicimackoAdatbazis\MicimackoAdatbazis\bin\Debug\System.Data.SQLite.dll
+D:\Program Files (x86)\Programozas\suli_programozas\c#\gyakorlas\MicimackoAdatbazis\MicimackoAdatbazis\obj\Debug\MicimackoAdatbazis.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Programozas\suli_programozas\c#\gyakorlas\MicimackoAdatbazis\MicimackoAdatbazis\obj\Debug\MicimackoAdatbazis.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Programozas\suli_programozas\c#\gyakorlas\MicimackoAdatbazis\MicimackoAdatbazis\obj\Debug\MicimackoAdatbazis.csproj.CopyComplete
+D:\Program Files (x86)\Programozas\suli_programozas\c#\gyakorlas\MicimackoAdatbazis\MicimackoAdatbazis\obj\Debug\MicimackoAdatbazis.exe
+D:\Program Files (x86)\Programozas\suli_programozas\c#\gyakorlas\MicimackoAdatbazis\MicimackoAdatbazis\obj\Debug\MicimackoAdatbazis.pdb
